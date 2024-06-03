@@ -1,0 +1,15 @@
+/* generale */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#bg_img{
+    position: relative;
+    border: 1px solid black;
+    margin: 0 auto;
+    max-width: 510px;
+    text-align: center;
+}
