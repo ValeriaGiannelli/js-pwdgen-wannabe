@@ -7,7 +7,7 @@ let yourName = prompt('scrivi il tuo nome');
 console.log(yourName);
 
 // chiedi il cognome
-let surname = prompt('scrivi il tuo cognonome');
+let surname = prompt('scrivi il tuo cognome');
 
 console.log(surname);
 
